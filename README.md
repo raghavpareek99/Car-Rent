@@ -1,5 +1,5 @@
 # Build and Deploy a Modern Next.js 13 Application | React, Next JS 13, TypeScript, Tailwind CSS
-![Car Rent](file:///C:/Users/computer/OneDrive/Desktop/1.png)
+![Car Rent]([file:///C:/Users/computer/OneDrive/Desktop/1.png](https://drive.google.com/file/d/17UXYA77hduC83w0uENzNszVRoYM8DGp1/view?usp=sharing))
 
 ## Introduction
 The demand for Next.js 13 applications has reached its highest point! This is an excellent opportunity to create a cutting-edge, contemporary application that takes full advantage of Next.js 13's most advanced features. You can harness the power of server-side rendering and the app router to build a state-of-the-art modern application.
