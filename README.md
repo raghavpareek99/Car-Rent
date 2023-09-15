@@ -27,7 +27,10 @@ By working on this project, you will:
 3. Start the development server with `npm run dev`.
 4. Explore and build upon the Next.js 13 application!
 
-![Car](https://drive.google.com/file/d/17UXYA77hduC83w0uENzNszVRoYM8DGp1/view)
+## 📷 Screenshots
+
+![Car](screenshot1.png)
+![Catalogue](screenshot2.png)
 
 ## 🤝 Contributing
 
